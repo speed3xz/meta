@@ -8,9 +8,7 @@
 
 <!-- Badges -->
 <p>
-  <img src="https://img.shields.io/github/v/release//speed3xz/meta?include_prereleases&sort=semver" alt="Latest Release"/>
   <img src="https://img.shields.io/github/languages/code-size/speed3xz/meta" alt="Code Size"/>
-  <img src="https://img.shields.io/github/license/speed3xz/meta" alt="License"/>
   <img src="https://img.shields.io/github/stars/speed3xz/meta" alt="Stars"/>
   <img src="https://img.shields.io/github/forks/speed3xz/meta" alt="Forks"/>
 </p>
