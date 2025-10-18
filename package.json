@@ -3,15 +3,15 @@
   "version": "1.1.4",
   "description": "Custom Baileys WhatsApp API",
   "keywords": [
-    "baileys", 
-    "baileys-mod", 
-    "wabot", 
+    "baileys",
+    "baileys-mod",
+    "wabot",
     "whatsapp",
-    "js-whatsapp", 
-    "whatsapp-api", 
+    "js-whatsapp",
+    "whatsapp-api",
     "whatsapp-web",
     "whatsapp-bot",
-    "automation", 
+    "automation",
     "multi-device"
   ],
   "homepage": "https://developers.facebook.com/docs/whatsapp/",
@@ -40,10 +40,10 @@
     "cache-manager": "^5.7.6",
     "cheerio": "^1.0.0-rc.10",
     "libphonenumber-js": "^1.10.20",
-    "libsignal": "git+https://github.com/EdderBot02/libsignal",
+    "libsignal": "git+https://github.com/whiskeysockets/libsignal-node",
     "lodash": "^4.17.21",
     "music-metadata": "^7.12.3",
-    "pino": "^9.6",
+    "pino": "^9.6.0",
     "protobufjs": "^6.11.3",
     "uuid": "^10.0.0",
     "ws": "^8.13.0"
@@ -95,8 +95,8 @@
       "optional": true
     }
   },
-  "packageManager": "yarn@1.22.19",
+  "packageManager": "npm@10.8.2",
    "engines": {
      "node": ">=20.0.0"
    }
-  }
+    }
