@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/speed3xz/Storage/refs/heads/main/Arlette-Bot/1855e17ce8553b70251982f05bfae825.jpg" alt="Header Image" width="100%"/>
+<img src="https://speed3xz.bot.nu/img/IMG_4580.jpeg" alt="Header Image" width="100%"/>
 
 <br/>
 
